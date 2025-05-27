@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhzamIsmail
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning agentic AI
-- 💞️ I’m looking to collaborate on python & next,js projects
+- 💞️ I’m looking to collaborate on python & next.js projects
 - 📫 How to reach me on X AhzamIsmail
 
 
